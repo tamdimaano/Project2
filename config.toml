@@ -1,4 +1,6 @@
 baseURL = 'https://daniul.github.io/TCMG412Proj1/'
 languageCode = 'en-us'
-title = Group 3
+title = '''
+Group 3's Favorite Movies
+'''
 theme = 'ananke'
