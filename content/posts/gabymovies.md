@@ -8,7 +8,7 @@ draft: true
 
 
 - [ ] [Puss in Boots: The Last Wish](https://www.imdb.com/title/tt3915174/) (2022)
-![Puss in Boots: The Last Wish] (https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kuf6dutpsT0vSVehic3EZIqkOBt.jpg)
+![Puss in Boots: The Last Wish](https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kuf6dutpsT0vSVehic3EZIqkOBt.jpg)
 - [ ] [The Menu](https://www.imdb.com/title/tt9764362/) (2022)
 ![The Menu](https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg)
 - [ ] [The Last of Us](https://www.imdb.com/title/tt3581920/) (2023)
