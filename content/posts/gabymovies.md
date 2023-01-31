@@ -18,5 +18,7 @@ Thierry's comment: The Last of Us is such a goated show! Pedro Pascal is a great
 
 Tim's comment: I'm glad you thought Puss in Boots was good. I heard many great things about it and am looking forward to seeing it!
 
+Stephen's comment: The Last of Us is currently my favorite show on TV! I am also about to start playing the video game and I'm super excited for that.
+
 ##### Gaby would recommend the movie Puss in Boots: The Last Wish the most as it appeals to the widest range of audience members. The lighthearted, animated film takes you on a colorful adventure with one of the most popular Shrek characters, Puss in Boots. 
 
