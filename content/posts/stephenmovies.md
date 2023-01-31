@@ -18,3 +18,4 @@ draft: true
 
 
 Thierry's comment: You can't go wrong with Parasite! The plot twist at the middle of the movie was insane!
+Gaby's comment: I still need to watch Parasite! I've heard so many good things and was really excited that they won so many awards when it first came out!
