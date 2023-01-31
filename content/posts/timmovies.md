@@ -14,3 +14,6 @@ draft: true
 - [ ] [The Wolf of Wall Street](https://www.imdb.com/title/tt0993846) (2013)
 ![The Wolf of Wall Street](https://www.themoviedb.org/t/p/w1280/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg)
 
+
+
+Thierry's comment: The Lego Movie is an all-time classic! Great choice!
