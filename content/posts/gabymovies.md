@@ -16,5 +16,7 @@ draft: true
 
 Thierry's comment: The Last of Us is such a goated show! Pedro Pascal is a great actor!
 
+Tim's comment: I'm glad you thought Puss in Boots was good. I heard many great things about it and am looking forward to seeing it!
+
 ##### Gaby would recommend the movie Puss in Boots: The Last Wish the most as it appeals to the widest range of audience members. The lighthearted, animated film takes you on a colorful adventure with one of the most popular Shrek characters, Puss in Boots. 
 
