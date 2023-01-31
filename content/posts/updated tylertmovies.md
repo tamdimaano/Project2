@@ -16,3 +16,5 @@ draft: true
 ![Top Gun](https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg)
 
 Tim's comment: Now You See Me was a great movie! It had me on the edge of my seat at every encounter!
+
+Stephen's comment: The Dark Knight is my personal favorite movie but I also love The Dark Knight Rises, especially the ending scene between Alfred and Bruce. 
