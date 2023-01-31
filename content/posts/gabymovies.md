@@ -8,7 +8,10 @@ draft: true
 
 
 - [ ] [Puss in Boots: The Last Wish](https://www.imdb.com/title/tt3915174/) (2022)
+![Puss in Boots: The Last Wish] (https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kuf6dutpsT0vSVehic3EZIqkOBt.jpg)
 - [ ] [The Menu](https://www.imdb.com/title/tt9764362/) (2022)
+![The Menu](https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg)
 - [ ] [The Last of Us](https://www.imdb.com/title/tt3581920/) (2023)
+![The Last of Us](https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg)
 
-##### Gaby would recommend the movie Puss in Boots the most as it appeals to the widest range of audience members. The lighthearted, animated film takes you on a colorful adventure with one of the most popular Shrek characters, Puss in Boots. Here is the promotional poster:
+##### Gaby would recommend the movie Puss in Boots: The Last Wish the most as it appeals to the widest range of audience members. The lighthearted, animated film takes you on a colorful adventure with one of the most popular Shrek characters, Puss in Boots. 
