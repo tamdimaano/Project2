@@ -14,4 +14,7 @@ draft: true
 - [ ] [The Last of Us](https://www.imdb.com/title/tt3581920/) (2023) <br>
 ![The Last of Us](https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg)
 
+Thierry's comment: The Last of Us is such a goated show! Pedro Pascal is a great actor!
+
 ##### Gaby would recommend the movie Puss in Boots: The Last Wish the most as it appeals to the widest range of audience members. The lighthearted, animated film takes you on a colorful adventure with one of the most popular Shrek characters, Puss in Boots. 
+

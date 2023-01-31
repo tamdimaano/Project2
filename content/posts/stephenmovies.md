@@ -15,3 +15,6 @@ draft: true
 - [ ] [Parasite](https://www.imdb.com/title/tt6751668/) (2019)
 
 ![Parasite](https://www.themoviedb.org/t/p/w220_and_h330_face/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg)
+
+
+Thierry's comment: You can't go wrong with Parasite! The plot twist at the middle of the movie was insane!
