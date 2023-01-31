@@ -14,3 +14,5 @@ draft: true
 ![Now You See Me](https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg) 
 - [ ] [Top Gun](https://www.imdb.com/title/tt0092099/) (1986) <br>
 ![Top Gun](https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg)
+
+Tim's comment: Now You See Me was a great movie! It had me on the edge of my seat at every encounter!
